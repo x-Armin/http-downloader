@@ -1,0 +1,5 @@
+一个简单的多线程HTTP文件下载器
+
+确保环境上安装了libcur，或者修改Makefile中的curl路径
+
+直接make
